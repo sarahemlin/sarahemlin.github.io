@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "{{ replace .Name "-" " " | title }}"
+# might need to use {{ replace .Name "-" " " | title }} in the title quotes
+title: ""
 subtitle: ""
 summary: ""
 authors: []

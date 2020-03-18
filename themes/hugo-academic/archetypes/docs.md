@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "{{ replace .Name "-" " " | title }}"
-linktitle: "{{ replace .Name "-" " " | title }}"
+# might need to use {{ replace .Name "-" " " | title }} in the title and linktitle quotes
+title: ""
+linktitle: ""
 summary:
 date: {{ .Date }}
 lastmod: {{ .Date }}
