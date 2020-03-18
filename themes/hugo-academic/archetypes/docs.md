@@ -1,11 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-# might need to use {{ replace .Name "-" " " | title }} in the title and linktitle quotes
+# might need to use {{ replace .Name "-" " " | title }} in the title and linktitle quotes and .Date in curly braces for date fields
+
 title: ""
 linktitle: ""
 summary:
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: ""
+lastmod: ""
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
