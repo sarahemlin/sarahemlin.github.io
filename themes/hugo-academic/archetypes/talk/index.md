@@ -17,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: []
-date_end: []
+date: ""
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: []
+publishDate: ""
 
 authors: []
 tags: []

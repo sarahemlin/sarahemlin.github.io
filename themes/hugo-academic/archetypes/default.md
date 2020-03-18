@@ -8,8 +8,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: []
-lastmod: []
+date: ""
+lastmod: ""
 featured: false
 draft: false
 
