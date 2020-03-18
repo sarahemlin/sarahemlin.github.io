@@ -1,14 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-# might need to use {{ replace .Name "-" " " | title }} in the title quotes
+# might need to use {{ replace .Name "-" " " | title }} in the title quotes and .Date in curly braces for date + lastmod
+
 title: ""
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: []
+lastmod: []
 featured: false
 draft: false
 

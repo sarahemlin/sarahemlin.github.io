@@ -1,6 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-# might need to use {{ replace .Name "-" " " | title }} in the title quotes
+# might need to use {{ replace .Name "-" " " | title }} in the title quotes and {{ .Date }} in curly braces for dates
+
 title: ""
 event:
 event_url:
@@ -16,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: {{ .Date }}
-date_end: {{ .Date }}
+date: []
+date_end: []
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: {{ .Date }}
+publishDate: []
 
 authors: []
 tags: []

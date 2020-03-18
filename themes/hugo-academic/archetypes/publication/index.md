@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-# might need to use {{ replace .Name "-" " " | title }} in the title quotes
+# might need to use {{ replace .Name "-" " " | title }} in the title quotes and {{ .Date }} in curly braces for date + publishDate
 
 title: ""
 authors: []
-date: {{ .Date }}
+date: []
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: {{ .Date }}
+publishDate: []
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

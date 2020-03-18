@@ -1,12 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-# might need to use {{ replace .Name "-" " " | title }} in the title quotes
+# might need to use {{ replace .Name "-" " " | title }} in the title quotes and .Date in curly braces for date 
+
 title: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: {{ .Date }}
+date: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
