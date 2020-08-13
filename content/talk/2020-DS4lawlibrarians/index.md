@@ -21,16 +21,13 @@ image:
   focal_point: 'right'
   preview_only: no
 projects: []
-links:
-- icon: images
+
+# links:
+# - icon: images
   icon_pack: fas
   name: slides
   url: ""
-- icon: play-circle
-  icon_pack: fas
-  name: video
-  url: 
-- icon: github
+# - icon: github
   icon_pack: fab
   name: materials
   url: []
