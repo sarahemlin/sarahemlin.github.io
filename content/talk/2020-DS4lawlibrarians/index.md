@@ -24,11 +24,11 @@ projects: []
 
 # links:
 # - icon: images
-  icon_pack: fas
-  name: slides
-  url: ""
+#  icon_pack: fas
+#  name: slides
+#  url: ""
 # - icon: github
-  icon_pack: fab
-  name: materials
-  url: []
+#  icon_pack: fab
+#  name: materials
+#  url: []
 ---
