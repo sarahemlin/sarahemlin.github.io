@@ -22,7 +22,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/sarahemlin
-location: New Orleans Ernest N. Morial Convention Center
+# location: New Orleans Ernest N. Morial Convention Center
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 summary: I was asked present the R portion of the Textual Analysis Deep Dive at AALL's
