@@ -7,12 +7,7 @@ abstract: THIS EVENT WAS CANCELLED DUE TO COVID-19. The digital humanities have 
   2016 presidential election.  David Holt (UC-Davis) will moderate, I will present
   the R portion, and John Beatty (SUNY-Buffalo) and Jason Eiseman (Yale) will present
   the Python portion of the Deep Dive.
-address:
-  city: New Orleans
-  country: United States
-  postcode: "70130"
-  region: LA
-  street: 900 Convention Center Blvd.
+
 all_day: false
 authors: []
 date: "2020-07-12T14:30:00Z"
