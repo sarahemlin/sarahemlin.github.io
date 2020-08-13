@@ -10,7 +10,7 @@ education:
   - course: BA in African/African-American Studies & Anthropology
     institution: University of Chicago
     year: 2003
-email: "sarah.e.m.lin@gmail.com"
+email: sarah.e.m.lin@gmail.com
 interests:
 - Information Architecture
 - Findability
@@ -18,7 +18,7 @@ interests:
 name: Sarah Lin
 organizations:
 - name: RStudio
-  url: "http://www.rstudio.com"
+  url: http://www.rstudio.com
 role: Information Architect & Digital Librarian
 social:
 - icon: envelope
