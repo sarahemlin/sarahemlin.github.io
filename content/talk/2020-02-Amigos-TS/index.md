@@ -1,5 +1,5 @@
 ---
-title: Transform Your Mindset: TS Librarians as Data Scientists
+title: 'Transform Your Mindset: TS Librarians as Data Scientists'
 draft: false
 authors: []
 event: 'Webinar'
@@ -8,8 +8,8 @@ abstract: The standard library school cliche is that we went so we didn't have t
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-23T15:00:00Z"
-date_end: "2020-09-24T16:00:00Z"
+date: "2020-02-13T15:00:00Z"
+date_end: "2020-02-13T16:00:00Z"
 all_day: false
 publishdate: "2020-02-13"
 

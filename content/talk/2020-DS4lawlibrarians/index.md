@@ -9,7 +9,7 @@ abstract: Data science is everywhere these days, but what exactly is it? How do 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-09-24T09:00:00Z"
-date_end: "2020-09-24T10:00:00Z"
+# date_end: "2020-09-24T10:00:00Z"
 all_day: false
 publishdate: "2020-08-01"
 
