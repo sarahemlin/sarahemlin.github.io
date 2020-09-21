@@ -25,10 +25,10 @@ projects: []
 # links:
 # - icon: images
 #  icon_pack: fas
-#  name: slides
-#  url: ""
+  name: slides
+  url: "https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-DS4lawlibrarians/Intro%20to%20data%20science%20-%20AALL.pdf"
 # - icon: github
 #  icon_pack: fab
-#  name: materials
-#  url: []
+  name: resources
+  url: [https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-DS4lawlibrarians/resources-list.pdf]
 ---
