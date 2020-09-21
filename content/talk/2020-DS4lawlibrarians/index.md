@@ -17,11 +17,10 @@ categories:
   - talk
 tags: []
 featured: false
-image:
-  focal_point: 'right'
-  preview_only: no
-projects: []
-
+# image:
+#   focal_point: 'right'
+#   preview_only: no
+# projects: []
 links:
 - icon: images
   icon_pack: fas
