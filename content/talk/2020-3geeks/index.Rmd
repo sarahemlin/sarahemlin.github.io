@@ -1,5 +1,5 @@
 ---
-title: 'The Geek in Review Ep. 90 – Using Data Analytics to Tell Your Story with RStudio’s Sarah Lin'
+title: 'Using Data Analytics to Tell Your Story'
 draft: false
 authors: []
 event: 'Podcast'
