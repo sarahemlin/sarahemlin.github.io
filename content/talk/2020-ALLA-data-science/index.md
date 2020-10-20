@@ -1,5 +1,5 @@
 ---
-title: Intro to Data Science for Law Librarians
+title: Intro to Data Science for [Australian] Law Librarians 
 draft: false
 authors: [Sarah Lin]
 event: 'Webinar'
