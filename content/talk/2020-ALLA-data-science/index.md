@@ -25,9 +25,9 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-DS4lawlibrarians/Intro%20to%20data%20science%20-%20AALL.pdf"
+  url: "https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-ALLA-data-science/ALLA%20Intro%20to%20Data%20Science.pdf"
 - icon: github
   icon_pack: fab
   name: materials
-  url: https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-DS4lawlibrarians/resources-list.pdf
+  url: "https://github.com/sarahemlin/sarahemlin.github.io/blob/master/content/talk/2020-ALLA-data-science/ALLA-resources-list.pdf"
 ---
