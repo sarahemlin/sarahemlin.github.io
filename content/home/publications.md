@@ -25,11 +25,11 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+#    tag = ""
+#   category = ""
+#    publication_type = ""
+#    author = ""
+#    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
