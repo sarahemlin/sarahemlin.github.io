@@ -43,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008469
 url_video:
 
 # Featured image
