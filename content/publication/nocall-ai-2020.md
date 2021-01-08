@@ -4,7 +4,7 @@
 
 title: "Machine Learning: My Journey into AI"
 authors: []
-date: "4 Feb 2020"
+date: "2020-02-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
