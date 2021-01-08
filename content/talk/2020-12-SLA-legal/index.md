@@ -1,5 +1,5 @@
 ---
-title: Data Science Fundamentals
+title: Data Science Fundamentals - SLA
 draft: false
 authors: [Sarah Lin]
 event: 'Webinar'
