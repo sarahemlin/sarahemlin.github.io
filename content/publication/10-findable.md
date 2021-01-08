@@ -8,7 +8,7 @@ date: "31 Dec 2020"
 doi: "10.1371/journal.pcbi.1008469"
 
 # Schedule page publish date (NOT publication's date).
- publishDate: "12-31-2020"
+# publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ abstract: "The distribution of scholarly content today happens in the context of
 # summary: ""
 
 tags: []
-categories: [publications]
+categories: [publication]
 featured: false
 
 # Custom links (optional).
