@@ -31,7 +31,7 @@ social:
   icon_pack: fab
   link: https://github.com/sarahemlin
 - icon: orcid
-  icon_pack:ai
+  icon_pack: ai
   link: https://orcid.org/0000-0002-4707-5590
 superuser: true
 user_groups:
