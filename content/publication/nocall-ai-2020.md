@@ -29,8 +29,8 @@ the subject. With support from my boss, I struggled
 through October and November refreshing my linear
 regression knowledge (knowledge I’d happily left
 behind in high school) and bringing my coding skills
-from near zero to “won’t be embarrassed in front of
-my colleagues."
+from near zero to  “won’t be embarrassed in front of
+my colleagues.” "
 
 # Summary. An optional shortened abstract.
 # summary: ""
