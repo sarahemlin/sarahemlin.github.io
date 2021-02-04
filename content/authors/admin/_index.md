@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Sarah Lin is currently the Information Architect & Digital Librarian at RStudio, a data science software company. She has previously been a bindery clerk, a serials librarian, an indexer, a technical services librarian and a content manager in academic, medical, legal and corporate libraries. Sarah believes that data literacy is the key to the future and that technical services librarians are the natural standard-bearers of this movement in the library community.
+Sarah Lin is currently the Information Architect & Digital Librarian at RStudio, a data science software company. She has previously been a bindery clerk, a serials librarian, an indexer, a technical services librarian and a content manager in academic, medical, legal and corporate libraries. Sarah believes that data literacy is the key to the future and that librarians would do well to learn data science in order to better serve their patrons, colleagues, and careers.
