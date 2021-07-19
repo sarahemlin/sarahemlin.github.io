@@ -12,7 +12,7 @@ abstract: This session highlights the lack of access to justice and informs law 
 date: "2021-07-22T08:00:00Z"
 # date_end: "2020-09-24T10:00:00Z"
 all_day: false
-publishdate: "2021-07-22"
+publishdate: "2021-07-19"
 
 categories:
   - talk
