@@ -17,7 +17,7 @@ publishdate: "2021-07-22"
 categories:
   - talk
 tags: []
-featured: featured
+featured: false
 # image:
 #   focal_point: 'right'
 #   preview_only: no
