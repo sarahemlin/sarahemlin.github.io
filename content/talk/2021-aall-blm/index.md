@@ -9,7 +9,7 @@ abstract: This session highlights the lack of access to justice and informs law 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-22T09:00:00Z"
+date: "2021-07-22T08:00:00Z"
 # date_end: "2020-09-24T10:00:00Z"
 all_day: false
 publishdate: "2021-07-22"
@@ -17,7 +17,7 @@ publishdate: "2021-07-22"
 categories:
   - talk
 tags: []
-featured: false
+featured: true
 # image:
 #   focal_point: 'right'
 #   preview_only: no
