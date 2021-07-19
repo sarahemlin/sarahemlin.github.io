@@ -7,7 +7,6 @@ abstract: THIS EVENT WAS CANCELLED DUE TO COVID-19. The digital humanities have 
   2016 presidential election.  David Holt (UC-Davis) will moderate, I will present
   the R portion, and John Beatty (SUNY-Buffalo) and Jason Eiseman (Yale) will present
   the Python portion of the Deep Dive.
-
 all_day: false
 authors: []
 date: "2020-07-12T14:30:00Z"
@@ -22,7 +21,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/sarahemlin
-# location: New Orleans Ernest N. Morial Convention Center
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 summary: I was asked present the R portion of the Textual Analysis Deep Dive at AALL's
