@@ -14,7 +14,7 @@ code, this book will support librarians who want to apply data science in their 
 authors: []
 categories:
 - publication
-date: 24 Sep 2022
+date: 23 Sep 2022
 featured: false
 image:
   caption: ""
