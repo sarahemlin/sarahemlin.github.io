@@ -17,7 +17,7 @@ publication_types:
 slides: ""
 tags: []
 title: Hands-on data science for librarians
-url_code: https://github.com/sarahemlin/sarahemlin.github.io/blob/master/static/files/stl_dashboard.html
+url_code: https://rpubs.com/sarahemlin/stl-dashboard
 url_dataset: null
 url_pdf: null
 url_poster: null
