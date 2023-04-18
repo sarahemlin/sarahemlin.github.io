@@ -10,16 +10,16 @@ education:
   - course: BA in African/African-American Studies & Anthropology
     institution: University of Chicago
     year: 2003
-email: sarah.e.m.lin@gmail.com
+email: 
 interests:
 - Information Architecture
 - Findability
 - Metadata
 name: Sarah Lin
 organizations:
-- name: RStudio
-  url: http://www.rstudio.com
-role: Information Architect & Digital Librarian
+- name: MongoDB
+  url: http://www.mongodb.com
+role: Sr Information/Content Architect
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Sarah Lin is currently the Information Architect & Digital Librarian at RStudio, a data science software company. She has previously been a bindery clerk, a serials librarian, an indexer, a technical services librarian and a content manager in academic, medical, legal and corporate libraries. Sarah believes that data literacy is the key to the future and that librarians would do well to learn data science in order to better serve their patrons, colleagues, and careers.
+Sarah Lin is currently the Senior Information/Content Architect on the Documentation team at MongoDB, a NoSQL database software company, after having spent 3 years at Posit (formerly RStudio), a data science software company, as their Enterprise Information Manager. She has previously been a bindery clerk, a serials librarian, an indexer, a technical services librarian and a content manager in academic, medical, legal and corporate libraries. Sarah believes that data literacy is the key to the future and that librarians would do well to learn programming and data science in order to better serve their patrons, colleagues, and careers.
